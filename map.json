@@ -794,7 +794,7 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/greglebreton.github.io\/gregandev\/map.json"
+         "value":"https:\/\/GregLebreton.github.io\/gregandev\/map.json"
         }, 
         {
          "name":"mapName",
