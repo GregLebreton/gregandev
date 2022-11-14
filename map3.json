@@ -648,7 +648,7 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/github.com\/GregLebreton\/gregandev-map\/map3.json"
+         "value":"https:\/\/greglebreton.github.io\/gregandev\/map3.json"
         }, 
         {
          "name":"mapName",
@@ -658,7 +658,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"src\/main.ts"
+         "value":"script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.8.5",

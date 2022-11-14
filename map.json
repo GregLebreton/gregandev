@@ -794,17 +794,17 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/github.com\/GregLebreton\/gregandev-map\/map.json"
+         "value":"https:\/\/greglebreton.github.io\/gregandev\/map1.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Just A Test"
+         "value":"Gregandev"
         }, 
         {
          "name":"script",
          "type":"string",
-         "value":"src\/main.ts"
+         "value":"script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.8.5",
