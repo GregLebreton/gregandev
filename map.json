@@ -417,7 +417,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"src\/assets\/music\/music.mp3"
+                 "value":"https:\/\/github.com\/GregLebreton\/gregandev\/blob\/master\/src\/assets\/music\/music.mp3?raw=true"
                 }],
          "type":"tilelayer",
          "visible":true,
