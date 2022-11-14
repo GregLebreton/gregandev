@@ -349,7 +349,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/src\/assets\/music\/zelda.mp3"
+                 "value":"https:\/\/github.com\/GregLebreton\/gregandev\/blob\/master\/src\/assets\/music\/zelda.mp3?raw=true"
                 }],
          "type":"tilelayer",
          "visible":true,
