@@ -417,7 +417,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"assets\/music\/music.mp3"
+                 "value":"src\/assets\/music\/music.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
